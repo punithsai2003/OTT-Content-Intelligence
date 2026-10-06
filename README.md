@@ -3,6 +3,7 @@
 An end-to-end OTT content analytics and data operations project built using Python and Looker Studio. The project focuses on transforming raw content data into a clean, structured data model and an interactive single-page dashboard for analyzing an OTT content catalog.
 
 **Key Features**
+
 Cleaned and standardized 8,804 OTT title records
 Removed duplicates and handled missing/inconsistent values
 Parsed movie runtime, TV seasons, ratings, dates, and release years
@@ -21,6 +22,7 @@ Rating coverage
 Average movie runtime
 
 **Data Operations Workflow**
+
 Raw OTT Dataset
       ↓
 Data Cleaning & Standardization
@@ -38,6 +40,7 @@ Looker Studio Data Model
 Interactive OTT Dashboard
 
 **Tools & Technologies**
+
 Python
 Pandas
 NumPy
@@ -48,8 +51,9 @@ Data Quality Validation
 
 **Dashboard**
 
+
 OTT Content Pulse provides a single-page view of the content catalog, allowing users to explore content distribution and catalog characteristics through interactive filters and visualizations.
 
-Project Outcome
+**Project Outcome**
 
 This project demonstrates an end-to-end workflow from raw data → data quality → structured datasets → business-ready dashboard, with a focus on practical data operations and analytics.
