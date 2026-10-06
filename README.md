@@ -24,29 +24,49 @@ Average movie runtime
 **Data Operations Workflow**
 
 Raw OTT Dataset
+
       ↓
+      
 Data Cleaning & Standardization
+      
       ↓
+      
 Duplicate & Missing Value Handling
+      
       ↓
+      
 Data Transformation
+      
       ↓
+      
 One-to-Many Data Normalization
+      
       ↓
+      
 Quality Validation
+      
       ↓
+      
 Looker Studio Data Model
+      
       ↓
+      
 Interactive OTT Dashboard
 
 **Tools & Technologies**
 
 Python
+
 Pandas
+
 NumPy
+
 Looker Studio
+
 CSV / Data Modeling
+
 Data Cleaning & Transformation
+
 Data Quality Validation
 
 **Dashboard**
